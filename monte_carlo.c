@@ -54,10 +54,3 @@ int count=0;
 
      z = x * x + y * y;
 
-     if( z <= 1 ) count++;
- }
-
- pi = (double) count / n * 4;
-
- return pi;
-}
